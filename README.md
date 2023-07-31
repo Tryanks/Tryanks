@@ -5,10 +5,10 @@
 ## 主力语言
 
 - C#
-- Python
 - Golang
-- Java / Kotlin
 - C / C++
+- Python
+- Java / Kotlin
 <!--
 **Tryanks/Tryanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
