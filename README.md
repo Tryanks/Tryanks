@@ -1,14 +1,14 @@
 # Tryanks
 
-你好 👋 ，我是全栈开发者。
+Hello 👋, I'm a Full-Stack Developer.
 
-## 主力语言
+## Primary Languages
 
-- C#
-- Golang
-- C / C++
-- Python
-- Java / Kotlin
+- ![C#](https://img.icons8.com/color/20/000000/c-sharp-logo.png) C# ★★★☆☆
+- ![Golang](https://img.icons8.com/color/20/000000/golang.png) Golang ★★★★★
+- ![Java](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) Java / ![Kotlin](https://img.icons8.com/color/20/000000/kotlin.png) Kotlin ★★☆☆☆
+- ![C](https://img.icons8.com/color/20/000000/c-programming.png) C / ![C++](https://img.icons8.com/color/20/000000/c-plus-plus-logo.png) C++ ★☆☆☆☆
+- ![Python](https://img.icons8.com/color/20/000000/python.png) Python ★★★★☆
 <!--
 **Tryanks/Tryanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
