@@ -1,6 +1,6 @@
 # Tryanks
 
-Hello 👋, I'm a Full-Drudgery Developer :(
+Hello 👋, I'm a Full-~~Stack~~Drudgery Developer :(
 
 ## Primary Languages
 
