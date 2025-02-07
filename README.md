@@ -4,11 +4,11 @@ Hello 👋, I'm a Full-~~Stack~~Drudgery Developer :(
 
 ## Primary Languages
 
-- ![C#](https://img.icons8.com/color/20/000000/c-sharp-logo.png) C# ★★★☆☆
-- ![Golang](https://img.icons8.com/color/20/000000/golang.png) Golang ★★★★★
-- ![Java](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) Java / ![Kotlin](https://img.icons8.com/color/20/000000/kotlin.png) Kotlin ★★☆☆☆
-- ![C](https://img.icons8.com/color/20/000000/c-programming.png) C / ![C++](https://img.icons8.com/color/20/000000/c-plus-plus-logo.png) C++ ★☆☆☆☆
-- ![Python](https://img.icons8.com/color/20/000000/python.png) Python ★★★★☆
+- [![C#](https://img.shields.io/badge/C%23-★★★★☆-informational?style=flat&logo=dotnet&logoColor=white&color=239120)](https://dotnet.microsoft.com/)
+- [![Golang](https://img.shields.io/badge/Golang-★★★★★-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+- [![Java](https://img.shields.io/badge/Java-★★☆☆☆-green?style=flat&logo=openjdk&logoColor=white)](https://learn.microsoft.com/zh-cn/java/openjdk/) / [![Kotlin](https://img.shields.io/badge/Kotlin-★★★☆☆-red?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+- [![C](https://img.shields.io/badge/C-★☆☆☆☆-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c) / [![C++](https://img.shields.io/badge/C++-★★☆☆☆-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+- [![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=flat&logo=python&logoColor=white)](https://docs.astral.sh/uv/)
 <!--
 **Tryanks/Tryanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
